@@ -1,0 +1,2 @@
+# LineNazri
+SELFBOT TEMPLATE SIMPLE
