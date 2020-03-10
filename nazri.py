@@ -125,7 +125,7 @@ def helpmessage():
                     "│ " + key + "Stickerpng/「StickerID」" + "\n" + \
                     "│ " + key + "Changevideoprofile" + "\n" + \
                     "├─「Maker」─" + "\n" + \
-                    "│ • VERSION : HelloWorld" + "\n" + \
+                    "│ • VERSION : TEST" + "\n" + \
                     "╰────────────"
     return helpMessage
 def clientBot(op):
